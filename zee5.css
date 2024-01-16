@@ -1,0 +1,291 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#bgblack{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: #0f0617;
+    background-size: 100%;
+}
+/* #fix{
+    position: fixed;
+} */
+
+#black{
+    position: absolute;
+    top: -1%;
+    background-color: rgb(0, 0, 0);
+    padding-left: 5%;
+    width: 100%;
+    height: 550%;
+    color: white;
+}
+
+#search{
+    position: absolute;
+    right: 25%;   
+}
+#login{
+    position: absolute;
+    top: 20%;
+    right: -25%;  
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px 12px ;
+    border-radius: 10px;
+    color: white;
+    transition: 1s;
+}
+#login:hover{
+    background-color: white;
+    color: black;
+}
+#buy{
+    position: absolute;
+    top: 20%;
+    right: -85%; 
+    width: 45%;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 8px 22px ;
+    border-radius: 10px;
+    background-color:#8230c6;
+    color: white;
+    transition: 0.3s;
+}
+#buy:hover{
+    background-color: #5a1493;
+}
+
+
+
+
+
+#carousel{
+    position: absolute;
+    top:13.6%;
+    width: 100%;
+    height: 80%;
+}
+#ganesha{
+    position: absolute;
+    top: -280%;
+    left: -11%;
+    font-size: 40px;
+}
+#login1{
+    position: absolute;
+    top: -100%;
+    left: -10%;  
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 8px 12px ;
+    border-radius: 5px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    transition: 1s;
+}
+#login1:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#buy1{
+    position: absolute;
+    top: -100%;
+    left: 3%;  
+    width: 15%;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 8px 0px ;
+    border-radius: 5px;
+    background-color:#8230c6;
+    color: white;
+    transition: 0.3s;
+}
+#buy1:hover{
+    background-color: #5a1493;
+}
+
+#Trending{
+    position: absolute;
+    top: 100%;
+    left: 2%;
+    color: white;
+}
+
+
+#carouselstart{
+    position: absolute;
+    top:112.6%;
+    width: 100%;
+    height: 80%;
+}
+
+
+
+#watch1{
+    position: absolute;
+    top: 83%;
+    left: 66%;  
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 4px 8px ;
+    border-radius: 5px;
+    background-color:rgb(0, 0, 0);
+    color: white;
+    transition: 1s;
+}
+
+
+
+#carouselfirst{
+    position: absolute;
+    top:100%;
+    width: 100%;
+    height: 80%;
+}
+.card{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    border-radius: 10px;
+    font-size: 12px;
+}
+#card01{
+    position: absolute;
+    top: 0%;
+    left: 18%;
+    border-radius: 10px;
+    font-size: 12px;    
+}
+
+
+#card02{
+    position: absolute;
+    top: 0%;
+    left: 34%;
+    border-radius: 10px;
+    font-size: 12px;
+}
+#card03{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    border-radius: 10px;
+    font-size: 12px;
+}
+#card04{
+    position: absolute;
+    top: 0%;
+    left: 66%;
+    border-radius: 10px;
+    font-size: 12px;
+}
+#card05{
+    position: absolute;
+    top: 0%;
+    left: 82%;
+    border-radius: 10px;
+    font-size: 12px;
+}
+#slow{
+    transition: 1.5s;
+}
+
+
+#Entertainers{
+    position: absolute;
+    top: 80%;
+    left: 2%;
+    color: white;
+}
+
+
+#ani{
+    position: absolute;
+    top: 110%;
+    left: 2%;
+}
+#live{
+    position: absolute;
+    top: 180%;
+    left: 2%;
+    color: white;
+}
+
+#channels{
+    position: absolute;
+    top:206%;
+    width: 100%;
+    height: 80%;
+}
+#link{
+    text-decoration: none;
+    color: grey;
+}
+#link:hover{
+    color: violet;
+}
+
+
+#movies{
+    position: absolute;
+    top: 120%;
+    color: white;
+    padding-left: 3%;
+    padding-right: 3.5%;
+    text-align: justify;
+}
+#list{
+    font-size: 30px;
+}
+#q{
+    padding-top: 12px ;
+    padding-left: 120px;
+    padding-right: 200px;
+    padding-bottom: 30px;
+}
+#playstore{
+    position: absolute;
+    top: 48.5%;
+    left: 17%;
+}
+#appstore{
+    position: absolute;
+    top: 48.5%;
+    left: 28%;
+}
+#w{
+    padding-top: 13px ;
+    padding-left: 15px;
+    padding-right: 140px;
+    padding-bottom: 10px;
+}
+#last{
+    position: absolute;
+    top: 600%;
+    left: 5%;
+    color: rgb(89, 89, 89);
+    padding-bottom: 50px;
+}
+
+#up{
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+    width: 4%;
+    height: 8%;
+    color: white;
+    border-radius: 15px;
+    background-color: rgb(85, 4, 85);
+    font-size: 35px;
+    padding-left: 10px;
+}
+
+
+
+
+
